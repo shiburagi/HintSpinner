@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hint Spinner</string>
+    <string name="withHint">With Hint</string>
+    <string name="withoutHint">Without Hint</string>
+</resources>
